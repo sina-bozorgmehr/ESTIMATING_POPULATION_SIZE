@@ -1,2 +1,5 @@
 # ESTIMATING_POPULATION_SIZE
 Prediction of Population using Regression Analysis in R
+
+
+The United States Census Bureau’s mission is “to serve as the nation’s leading provider of quality data about its people and economy” (United States Census Bureau, 2020b, par. 1). The Census Bureau has three distinctive statistical programs: Decennial census, economic census, and census of governments. Every decade, the decennial census counts the population and housing in all 50 states, District of Columbia, Puerto Rico, and the Island Areas as required by the U.S. Constitution. This data extracted from this census will be used to revise the number of seats that each state gets in the U.S. House of Representatives and to allocate the federal funds each year (United States Census Bureau, 2020a). In this project, annual estimates of resident population for the United States, regions, states, and Puerto Rico: April 1st, 2020 to July 1st, 2019 was used to predict the population of California in the next five years: 2020 to 2024.
